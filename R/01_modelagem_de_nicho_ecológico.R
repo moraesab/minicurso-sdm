@@ -1,11 +1,11 @@
 # -------------------------------------------------------------------------
 # Minicurso Introdução a Modelagem de Nicho Ecológico - XII CBC
 #
-# Objetivo: instalar pacotes necessários
+# Objetivo: Modelagem de nicho
 #
 # Autor: Alex Barbosa de Moraes
 #
-# Última atualização: 2024-10-29
+# Última atualização: 2024-11-03
 #
 # Descrição: Executa os passos principais para construção de modelos de nicho ecológico (MNE): 
 # (I) Preparação dos dados, (II) Ajuste de modelo, (III) Avaliação do 
